@@ -1,0 +1,25 @@
+#titlediv {
+    border: 1px solid black;
+    margin: 2px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#postdiv {
+    border: 1px solid black;
+    margin: 2px;
+    width: 33%;
+    border-radius: 5px;
+}
+
+#bodydiv {
+    border: 1px solid black;
+    margin: 2px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#main {
+    display: flex;
+    flex-wrap: wrap;
+}
